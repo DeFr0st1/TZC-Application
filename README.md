@@ -13,7 +13,7 @@ To use this application:
 3) A browser window should open that displays the app. Press refresh to pull in the latest market value, or re-launch the app/re-launch the source code. Whatever is easiest for you.
 
 
-If you find this useful please donate to help support efforts. I am one person doing this because I like the development team and TZC coin overall.
+If you find this useful please donate to help support efforts. I am one person doing this because I like the development team and TZC overall (great technology).
 
 Twitter: @DeFr0st1
 
