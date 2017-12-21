@@ -8,7 +8,7 @@ To use this application:
 
 2) Launch R, open the file, highlight the source code, and click run. The next version will be executable on all OS, but if you're on linux this should work for now:
 
-$ chmod +x Defr0st-TZC-vBeta.R 
+  $ chmod +x Defr0st-TZC-vBeta.R 
 
 3) A browser window should open that displays the app. Press refresh to pull in the latest market value, or re-launch the app/re-launch the source code. Whatever is easiest for you.
 
