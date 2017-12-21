@@ -1,5 +1,5 @@
 # TZC-Application
-Trezar coin (TZC) profit calculator and market analysis tool
+The unoffical TrezarCoin (TZC) profit calculator and market analysis tool.
 
 This is the source code to locally run the TZC profit calculator and market analysis tool that has been hosted at https://defr0st.shinyapps.io/TZC-profit-calc/. We get 25 hours a month through the shinyapps.io site, and rather than pay for a server to host the application, I have decided to release the source code so you can run locally. The application can be launched using the open source software R https://cloud.r-project.org. The current beta version calculates hashrate profitability for the TZC coin. Massive upgrade coming by the end of January 2018, including real time market analysis of TZC compared to the other major cryptocurrencies using a database I am building that tracks prices.  
 
