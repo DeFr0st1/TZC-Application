@@ -18,10 +18,17 @@ If you find this useful please donate to help support efforts. I am one person d
 Twitter: @DeFr0st1
 
 Donate:
+
 TZC: Ttk84BWjYGmpKDAAmcPRcmJjhxY6RJq8eG
+
 VIVO: VGQFRwi7s6c6S5ihzJzc8EQMX35tKUuEEX
+
 BTC: 1LuWhENdBEMhsEosCwbtvUpEJJpAWQ3dZX
+
 ZEC: t1HzSVhGTVHRE3orbA6iJLWpce9XiruTVDb
+
 LTC: LU3X572D3Zu3adespXBq4CAH3CbDpT89V5
+
 ETH: 0xc03cfd2c036ba8d462b7ecf0529ed8090172d6cc
+
 ETC: 0xcc958ef58974d952559d901b5956ac9e5b8a7b4b
